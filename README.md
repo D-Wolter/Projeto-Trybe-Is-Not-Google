@@ -8,6 +8,14 @@ O projeto foi desenvolver soluções nos módulos de:
 
 - Busca - Que permite operar funções de busca sobre os arquivos anexados.
 
+## Os seguintes arquivos foram escritos por mim:
+- file_management.py
+- file_process.py
+- queue.py
+- word_search.py
+- test_priority_queue.py
+## O restante do material foi fornecido pela Trybe.
+
 ## 🚀 Tecnologia
 
 - ⚡ Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
