@@ -39,7 +39,6 @@ Instala as dependências no ambiente virtual.
 Executa os testes
 
 
-<h3 align="left">Explicação</h3>
 
 The process function is responsible for adding data from files in the queue (this function takes as arguments `the path of the file with the data` and an `instance of the Queue class`.
 
